@@ -20,22 +20,29 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Nova Ponte Rio Niterói
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este vídeo apresenta uma visão envolvente do potencial e da aplicação das IAs Generativas numa possivel solução para a duplicação da Ponte Rio Niteroi.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IA Generativa ChatGPT para roteirização e revisão;
+IA Generativa D-ID para sintetização de voz e geração de avatar virtual;
+Software Adobe Premiere para edição de vídeo.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo. O "D-ID" foi essencial para criar um avatar virtual e voz sintetizada, trazendo uma dimensão futurística ao vídeo. A montagem e edição foram realizadas no Adobe Premiere para garantir qualidade profissional.
+
+
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
+O vídeo é uma cápsula do tempo que leva o espectador a uma jornada rápida pelo mundo das IAs Generativas, destacando seu potencial transformador.
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
+
+Este projeto foi uma experiência incrível em contar histórias visuais, utilizando as IAs Generativas para criar uma narrativa poderosa e cativante.
 ```
 
 ### Exemplos e Insigths
